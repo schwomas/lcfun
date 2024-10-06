@@ -1,0 +1,2 @@
+# lcfun
+Fun with langchain
